@@ -4,7 +4,7 @@
   
   run it from your local web server or straight in the browser
   
-  ![Alt text](/img/screenshot.png?raw=true "screenshot")
+  ![Alt text](/img/screenshot-rainbow-small.jpg?raw=true "screenshot")
   
 features:
 
